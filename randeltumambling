@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>Randel Tomale - Senior High School Student</title>
+  <style>
+    body {
+      background-color: pink;
+    }
+    h1 {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+    p {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Randel Tomale</h1>
+  <img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-518361844-1551386275.jpg?crop=1.00xw:0.756xh;0,0.139xh&resize=1200:*" alt="Randel Tomale">
+  <p>
+    Randel Tomale is a senior high school student at National University Fairview. He is 17 years old and was born on August 17.
+  </p>
+</body>
+</html>
